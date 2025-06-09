@@ -1,3 +1,0 @@
-E:/CppRepos/circleDescribedanArbitraryTriangle/cmake-build-debug/CMakeFiles/circleDescribedanArbitraryTriangle.dir
-E:/CppRepos/circleDescribedanArbitraryTriangle/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/CppRepos/circleDescribedanArbitraryTriangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
